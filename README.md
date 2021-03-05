@@ -1,6 +1,6 @@
 # Parrot Browser on Python
 
-Parrot Browser is coded in Python + Qt5
+Parrot Browser is coded in Python + Qt5. I will add new things soon. If you want to collaborate in this project, dm me in Discord : Alex&er#5003. 
 
 ![Screenshot](screenshot.png?raw=true)
 
